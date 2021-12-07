@@ -1,0 +1,15 @@
+
+y
+java:S1128
+"FRemove this unused import 'com.te.jpawithhibernate.beans.InternsInfo'.(‡ύώ€8ϋªΛ‹Κ/HΛ!RMINORZ
+CODE_SMELL
+p	java:S106'"9Replace this use of System.out or System.err by a logger.(¬σ°ύÿÿÿÿ8†ήθ‹Κ/HΜ!RMAJORZ
+CODE_SMELL
+k	java:S106%"9Replace this use of System.out or System.err by a logger.(Σν„Ύ8†ήθ‹Κ/HΝ!RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ιη¬ωÿÿÿÿ8ο¨Μ‹Κ/HΞ!RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(«‹Ξυ8¤Δ‹Κ/HΟ!RMAJORZ
+CODE_SMELL
+p	java:S106&"9Replace this use of System.out or System.err by a logger.(Υο“ψÿÿÿÿ8†ήθ‹Κ/HΠ!RMAJORZ
+CODE_SMELL

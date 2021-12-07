@@ -1,0 +1,13 @@
+
+s	java:S125"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ8Ïó²–Ñ/H™sRMAJORZ
+CODE_SMELL
+s
+java:S1126'"AReplace this if-then-else statement by a single return statement.(°çõ-8Ïó²–Ñ/HŸsRMINORZ
+CODE_SMELL
+m
+java:S1118
+":Add a private constructor to hide the implicit public one.(Ş‰ôİ8Úì˜úĞ/H sRMAJORZ
+CODE_SMELL
+a
+java:S1481")Remove this unused "info" local variable.(õÖı“ıÿÿÿÿ8²±İüĞ/H¡sRMINORZ
+CODE_SMELL

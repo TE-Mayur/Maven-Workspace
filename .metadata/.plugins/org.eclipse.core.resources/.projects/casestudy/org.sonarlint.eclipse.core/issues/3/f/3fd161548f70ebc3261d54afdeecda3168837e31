@@ -1,0 +1,31 @@
+
+d	java:S106/"9Replace this use of System.out or System.err by a logger.(¯‘ÙºHORMAJORZ
+CODE_SMELL
+i	java:S106!"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿHõNRMAJORZ
+CODE_SMELL
+U
+java:S1481")Remove this unused "info" local variable.(øàü•HöNRMINORZ
+CODE_SMELL
+i	java:S1069"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿHôNRMAJORZ
+CODE_SMELL
+i	java:S106%"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿH‚ORMAJORZ
+CODE_SMELL
+d	java:S1067"9Replace this use of System.out or System.err by a logger.(ßŸ±¥HøNRMAJORZ
+CODE_SMELL
+i	java:S106#"9Replace this use of System.out or System.err by a logger.(Ÿ®ÄÐùÿÿÿÿH÷NRMAJORZ
+CODE_SMELL
+d	java:S106)"9Replace this use of System.out or System.err by a logger.(ë¶ôHüNRMAJORZ
+CODE_SMELL
+i	java:S106 "9Replace this use of System.out or System.err by a logger.(’¥îÛþÿÿÿÿHûNRMAJORZ
+CODE_SMELL
+^
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿHþNRCRITICALZ
+CODE_SMELL
+i	java:S1061"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿHùNRMAJORZ
+CODE_SMELL
+d	java:S1065"9Replace this use of System.out or System.err by a logger.(¦§‹HúNRMAJORZ
+CODE_SMELL
+i	java:S106>"9Replace this use of System.out or System.err by a logger.(ˆ‹ç†ùÿÿÿÿH€ORMAJORZ
+CODE_SMELL
+i	java:S106+"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿHýNRMAJORZ
+CODE_SMELL

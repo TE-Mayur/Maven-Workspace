@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://xmlns.jcp.org/xml/ns/javaee" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_4_0.xsd" version="4.0">
+  <display-name>casestudy</display-name>
+  <welcome-file-list>
+    <welcome-file>index.html</welcome-file>
+    <welcome-file>index.htm</welcome-file>
+    <welcome-file>index.jsp</welcome-file>
+    <welcome-file>default.html</welcome-file>
+    <welcome-file>default.htm</welcome-file>
+    <welcome-file>default.jsp</welcome-file>
+  </welcome-file-list>
+  
+  
+<servlet>
+<servlet-name>reg</servlet-name>
+<jsp-file>/Register.jsp</jsp-file>
+</servlet>  
+
+
+<servlet-mapping>
+<servlet-name>reg</servlet-name>
+<url-pattern>/register</url-pattern>
+
+</servlet-mapping>
+ <servlet>
+<servlet-name>showdetails</servlet-name>
+<jsp-file>/showdetails.jsp</jsp-file>
+</servlet>  
+
+
+<servlet-mapping>
+<servlet-name>showdetails</servlet-name>
+<url-pattern>/details</url-pattern>
+
+</servlet-mapping>
+ 
+ <servlet>
+<servlet-name>success</servlet-name>
+<jsp-file>/registerSuccess.jsp</jsp-file>
+</servlet>  
+
+
+<servlet-mapping>
+<servlet-name>success</servlet-name>
+<url-pattern>/registerscc</url-pattern>
+
+</servlet-mapping>
+
+<servlet>
+<servlet-name>log</servlet-name>
+<jsp-file>/Login.jsp</jsp-file>
+</servlet>  
+
+
+<servlet-mapping>
+<servlet-name>log</servlet-name>
+<url-pattern>/logins</url-pattern>
+
+</servlet-mapping>
+<servlet>
+<servlet-name>log1</servlet-name>
+<jsp-file>/user.jsp</jsp-file>
+</servlet>  
+
+
+<servlet-mapping>
+<servlet-name>log1</servlet-name>
+<url-pattern>/loginsuccess</url-pattern>
+
+</servlet-mapping>
+<servlet>
+<servlet-name>log2</servlet-name>
+<jsp-file>/loginfailed.jsp</jsp-file>
+</servlet>  
+
+
+<servlet-mapping>
+<servlet-name>log2</servlet-name>
+<url-pattern>/loginfailed</url-pattern>
+
+</servlet-mapping>
+ 
+</web-app>

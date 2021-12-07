@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\Users\user\Desktop\Maven Workspace\jpawithhibernate\src\main\java\com\te\jpawithhibernate\beans\InternsInfo.java"/>
+			<item value="C:\Users\user\Desktop\Maven Workspace\casestudy\src\main\java\com\te\casestudy\dao\LoginDao.java"/>
+			<item value="C:\Users\user\Desktop\Maven Workspace\servlets\src\main\java\com\te\servlets\test\ServletGenric.java"/>
+			<item value="C:\Users\user\Desktop\Maven Workspace\java"/>
+			<item value="C:\Users\user\Desktop\Maven Workspace\chennai\pom.xml"/>
+			<item value="C:\Users\user\Desktop\Maven Workspace\console\src\main\java\com\te\console\operations\LoginRegisterOperation.java"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="https://repo1.maven.org/maven2/archetype-catalog.xml"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="org.te.hibernatepractice"/>
+			<item value="com.te.junittopic"/>
+			<item value="com.te.project"/>
+			<item value="com.te.carapplication"/>
+			<item value="com.te.casestudy"/>
+		</list>
+		<list key="groupId">
+			<item value="org.te"/>
+			<item value="com.te"/>
+		</list>
+		<list key="artifactId">
+			<item value="hibernatepractice"/>
+			<item value="junittopic"/>
+			<item value="project"/>
+			<item value="carapplication"/>
+			<item value="casestudy"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.wizards.CustomArchetypeDialog">
+		<list key="archetypeGroupId">
+			<item value="org.apache.maven.archetypes"/>
+		</list>
+		<list key="archetypeArtifactId">
+			<item value="maven-archetype-quickstart"/>
+		</list>
+		<list key="archetypeVersion">
+			<item value="1.4"/>
+		</list>
+		<list key="repositoryUrl">
+			<item value=""/>
+		</list>
+	</section>
+</section>

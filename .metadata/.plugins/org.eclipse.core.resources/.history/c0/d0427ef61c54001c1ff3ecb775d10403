@@ -1,0 +1,15 @@
+package com.te.practice;
+
+public class LargestElementInArray {
+
+	static int largestElement(int arr[] , int size) {
+		return arr.length-1;
+		
+	}
+	
+	
+	
+	
+
+	
+}

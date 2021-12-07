@@ -1,0 +1,18 @@
+	Scanner scan = new Scanner(System.in);
+		System.out.println("Choose the Option");
+		System.out.println("1. Show Details");
+		System.out.println("2. Update Details");
+		System.out.println("3. Delete the user");
+		int option1 = scan.nextInt();
+		
+		
+		switch (option1) {
+		case 1:
+			details();
+			break;
+
+		default:
+			break;
+		}
+		
+		

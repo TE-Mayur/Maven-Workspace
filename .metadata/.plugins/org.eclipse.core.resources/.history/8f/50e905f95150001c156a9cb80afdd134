@@ -1,0 +1,10 @@
+package org.te.hibernatepractice.beans;
+
+public class CustomException implements Runnable {
+
+	@Override
+	public void run(Exception msg) {
+		
+	}
+
+}

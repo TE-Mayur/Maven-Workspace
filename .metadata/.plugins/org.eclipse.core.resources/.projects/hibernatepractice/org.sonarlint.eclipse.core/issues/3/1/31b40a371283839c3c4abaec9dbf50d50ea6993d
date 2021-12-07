@@ -1,0 +1,15 @@
+
+v
+java:S1128	">Remove this unused import 'org.jboss.jandex.ThrowsTypeTarget'.(ˆ¹çÞþÿÿÿÿ8©³ó¶Ö/HåwRMINORZ
+CODE_SMELL
+v
+java:S2259""EA "NullPointerException" could be thrown; "factory" is nullable here.(áÿÉðÿÿÿÿÿ8©³ó¶Ö/HæwRMAJORZBUG
+v
+java:S2259#"EA "NullPointerException" could be thrown; "manager" is nullable here.(èòôÊÿÿÿÿÿ8û×ó¶Ö/HûwRMAJORZBUG
+k	java:S106"9Replace this use of System.out or System.err by a logger.(€Ý›Û8ß²î¶Ö/HºwRMAJORZ
+CODE_SMELL
+m
+java:S1128":Remove this unused import 'javax.transaction.Transaction'.(ãòñ®8†”ß¶Ö/H¨wRMINORZ
+CODE_SMELL
+z
+java:S2259"IA "NullPointerException" could be thrown; "transaction" is nullable here.(ì‚—ôúÿÿÿÿ8˜©ï¶Ö/H½wRMAJORZBUG

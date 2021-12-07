@@ -1,0 +1,17 @@
+package org.te.quicksort;
+
+public class Occurence {
+
+	 public static void main(String[] args)
+	  {
+	    List<Integer> list = new ArrayList<Integer>();
+	    list.add(1);
+	    list.add(2);
+	    list.add(1);
+	    int length = list.size();
+	    int firstIndex = list.indexOf(1) + 1;
+	    int secondIndex = firstIndex + list.subList(firstIndex, length).indexOf(1) + 1;
+	    System.out.println(firstIndex);
+	    System.out.println(secondIndex);
+	  }
+}

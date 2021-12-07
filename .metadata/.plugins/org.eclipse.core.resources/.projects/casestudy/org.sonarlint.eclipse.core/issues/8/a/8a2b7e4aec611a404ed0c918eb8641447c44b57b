@@ -1,0 +1,46 @@
+
+i	java:S106"9Replace this use of System.out or System.err by a logger.(ÏÙÄìûÿÿÿÿHÍ]RMAJORZ
+CODE_SMELL
+f
+java:S1141K"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿHÒ]RMAJORZ
+CODE_SMELL
+c	java:S106D"9Replace this use of System.out or System.err by a logger.(¥ HŞ]RMAJORZ
+CODE_SMELL
+i	java:S106L"9Replace this use of System.out or System.err by a logger.(…Ş‹¼øÿÿÿÿH×]RMAJORZ
+CODE_SMELL
+S
+java:S1481N"'Remove this unused "dt" local variable.(øÓËªHà]RMINORZ
+CODE_SMELL
+^
+java:S2093'"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿHá]RCRITICALZ
+CODE_SMELL
+i	java:S1061"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿHÙ]RMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(ƒÊĞÒûÿÿÿÿHØ]RMAJORZ
+CODE_SMELL
+i	java:S1060"9Replace this use of System.out or System.err by a logger.(ŠÈ˜üÿÿÿÿÿHİ]RMAJORZ
+CODE_SMELL
+i	java:S106V"9Replace this use of System.out or System.err by a logger.(©øıñÿÿÿÿÿHÚ]RMAJORZ
+CODE_SMELL
+i	java:S106="9Replace this use of System.out or System.err by a logger.(øÜ…ÖÿÿÿÿÿHÎ]RMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿHÖ]RMAJORZ
+CODE_SMELL
+Z
+java:S1121O".Extract the assignment out of this expression.(äˆ´ñHÛ]RMAJORZ
+CODE_SMELL
+c	java:S106H"9Replace this use of System.out or System.err by a logger.(³¨»xHÏ]RMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿHß]RMAJORZ
+CODE_SMELL
+i	java:S1063"9Replace this use of System.out or System.err by a logger.(Ò—şĞúÿÿÿÿHÌ]RMAJORZ
+CODE_SMELL
+d	java:S106\"9Replace this use of System.out or System.err by a logger.(òøŠÀHÔ]RMAJORZ
+CODE_SMELL
+f
+java:S1141:"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿHĞ]RMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(û¥¼ªùÿÿÿÿHÜ]RMAJORZ
+CODE_SMELL
+i	java:S106S"9Replace this use of System.out or System.err by a logger.(›Ù¢¸ûÿÿÿÿHÕ]RMAJORZ
+CODE_SMELL

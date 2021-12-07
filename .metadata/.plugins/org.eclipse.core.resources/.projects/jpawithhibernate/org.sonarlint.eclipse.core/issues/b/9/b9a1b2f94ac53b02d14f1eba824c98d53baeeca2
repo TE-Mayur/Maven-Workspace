@@ -1,0 +1,7 @@
+
+v
+java:S2259"EA "NullPointerException" could be thrown; "manager" is nullable here.(èòôÊÿÿÿÿÿ8Êé´ìÉ/HŒwRMAJORZBUG
+z
+java:S2259"IA "NullPointerException" could be thrown; "transaction" is nullable here.(ì‚—ôúÿÿÿÿ8Êé´ìÉ/H“wRMAJORZBUG
+k	java:S106"9Replace this use of System.out or System.err by a logger.(€İ›Û8Êé´ìÉ/H wRMAJORZ
+CODE_SMELL

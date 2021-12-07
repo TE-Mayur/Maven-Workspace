@@ -1,0 +1,12 @@
+
+l
+java:S1854 "9Remove this useless assignment to local variable "oldId".(°ÜÔÏ8Õ»™æÑ/HŠnRMAJORZ
+CODE_SMELL
+]
+java:S1481 "*Remove this unused "oldId" local variable.(°ÜÔÏ8Õ»™æÑ/H‹nRMINORZ
+CODE_SMELL
+`
+java:S1481("(Remove this unused "obj" local variable.(Ö¡ıúÿÿÿÿ8Õ»™æÑ/HŒnRMINORZ
+CODE_SMELL
+`	java:S108(")Either remove or fill this block of code.(Ö¡ıúÿÿÿÿ8Õ»™æÑ/HnRMAJORZ
+CODE_SMELL

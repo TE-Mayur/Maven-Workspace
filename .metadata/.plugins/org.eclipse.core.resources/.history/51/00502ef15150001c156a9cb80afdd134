@@ -1,0 +1,7 @@
+package org.te.hibernatepractice.beans;
+
+import org.hibernate.tool.schema.spi.ExceptionHandler;
+
+public class CustomException implements ExceptionHandler {
+
+}

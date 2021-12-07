@@ -1,0 +1,15 @@
+
+k
+java:S1854"8Remove this useless assignment to local variable "main".(“şÇ…8Åô”ÖĞ/HÃTRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(¨÷®ôûÿÿÿÿ8›­ÙÓĞ/H÷SRMAJORZ
+CODE_SMELL
+\
+java:S1481")Remove this unused "main" local variable.(“şÇ…8Åô”ÖĞ/HÄTRMINORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(œæù†8³—ëÓĞ/H‚TRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(Àø8¢ÆïÓĞ/H‰TRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(±Š©úşÿÿÿÿ8³—ëÓĞ/H„TRMAJORZ
+CODE_SMELL

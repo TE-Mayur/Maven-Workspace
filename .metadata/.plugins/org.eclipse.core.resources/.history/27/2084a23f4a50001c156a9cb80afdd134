@@ -1,0 +1,33 @@
+package org.te.hibernatepractice;
+
+import javax.persistence.EntityManager;
+import javax.persistence.EntityManagerFactory;
+
+import org.te.hibernatepractice.beans.BrothersInfo;
+
+public class ReadData {
+
+	public static void main(String[] args) {
+		
+		EntityManagerFactory emf = null;
+		
+		EntityManager em = null;
+		try {
+			BrothersInfo brothersInfo = em.find(BrothersInfo.class, 20);
+			
+			if (brothersInfo != null) {
+				System.out.println(brothersInfo.getName());
+				System.out.println(brothersInfo.getMail());
+				System.out.println(brothersInfo.getPassword());
+				System.out.println(brothersInfo.getDob());
+				System.out.println(brothersInfo.getId());
+				System.out.println(brothersInfo.getMobile());
+				
+			}
+			
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+		
+	}
+}

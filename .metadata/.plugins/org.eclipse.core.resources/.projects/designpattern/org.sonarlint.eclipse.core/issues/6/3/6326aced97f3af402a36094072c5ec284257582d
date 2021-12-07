@@ -1,0 +1,6 @@
+
+
+java:S1450"]Remove the "internetAccess" field and declare it as a local variable in the relevant methods.(ÖßˆÅ8¸±ÙË/Hß3RMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ı³”ÿÿÿÿÿ8˜©†ÙË/Hà3RMAJORZ
+CODE_SMELL

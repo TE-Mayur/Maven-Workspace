@@ -1,0 +1,21 @@
+
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+O
+src/main/webapp/WEB-INF/web.xml,2\e\2e22b6edd746fa3dc40ad7276c87c8d87d72a392
+I
+src/main/webapp/index.jsp,8\e\8e6d3b70c9f5b02570779b0441540d45eceb0ded
+m
+=src/main/java/com/te/servlets/controllers/MyDateServlets.java,f\f\ff0d0061df2a69a9898d38056b10ba66bf9a47da
+k
+;src/main/java/com/te/servlets/controllers/SecondServer.java,1\2\121cb3564526c1d8ed7a6fd51b22a077172f0a22
+H
+src/main/webapp/new.html,4\f\4f41d0821a0520d8d0f8fd2817754223b3514af7
+f
+6src/main/java/com/te/servlets/test/ForwardServlet.java,8\4\847b462a7304d793f11700337f548a1149be5998
+g
+7src/main/java/com/te/servlets/test/IncludeServlets.java,c\7\c7f42573e800d3e3f293e2d2e52a4f2946a555a3
+`
+0src/main/java/com/te/servlets/test/Redirect.java,8\1\81811e67f89775c24b11d67e39f71fadb8391ffb
+e
+5src/main/java/com/te/servlets/test/ServletGenric.java,9\c\9c529e1c26888fd4557d276ec199c4d5a20315e1

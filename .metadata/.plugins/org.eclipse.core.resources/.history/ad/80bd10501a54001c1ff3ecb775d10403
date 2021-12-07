@@ -1,0 +1,8 @@
+package com.te.practice;
+
+public class LargestElementInArray {
+
+	public static int largestElement(int[] , int size) {
+		
+	}
+}

@@ -1,0 +1,9 @@
+
+p	java:S106#"9Replace this use of System.out or System.err by a logger.(ÏÇù¨üÿÿÿÿ8¶™¶Ö/H´vRMAJORZ
+CODE_SMELL
+v
+java:S2259)"EA "NullPointerException" could be thrown; "factory" is nullable here.(áÿÉğÿÿÿÿÿ8ÚÄ¤¶Ö/HÛvRMAJORZBUG
+z
+java:S2259&"IA "NullPointerException" could be thrown; "transaction" is nullable here.(ì‚—ôúÿÿÿÿ8Óí¶Ö/HµvRMAJORZBUG
+v
+java:S2259*"EA "NullPointerException" could be thrown; "manager" is nullable here.(èòôÊÿÿÿÿÿ8Àó¤¶Ö/HîvRMAJORZBUG

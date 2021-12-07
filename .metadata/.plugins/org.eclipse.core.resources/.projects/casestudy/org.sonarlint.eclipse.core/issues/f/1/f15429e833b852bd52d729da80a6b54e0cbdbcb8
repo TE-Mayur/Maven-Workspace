@@ -1,0 +1,13 @@
+
+—
+java:S1989"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(ó˜•Ô8ù¼ìûĞ/HÄkRMINORZVULNERABILITY
+c
+java:S1128"0Remove this unused import 'java.io.PrintWriter'.(ÓŞÏÛ8ÅÒƒúĞ/HÅkRMINORZ
+CODE_SMELL
+Z
+java:S1125"'Remove the unnecessary boolean literal.(¸…“¿8á‚êûĞ/HÆkRMINORZ
+CODE_SMELL
+”
+java:S1989"YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(¾È™şÿÿÿÿ8á‚êûĞ/HÇkRMINORZVULNERABILITY
+
+java:S1989!"SHandle the following exception that could be thrown by "sendRedirect": IOException.(×ŸÆãÿÿÿÿÿ8¨–úûĞ/HÈkRMINORZVULNERABILITY

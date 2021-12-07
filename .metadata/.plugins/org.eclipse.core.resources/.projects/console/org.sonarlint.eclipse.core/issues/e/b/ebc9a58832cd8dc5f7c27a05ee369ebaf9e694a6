@@ -1,0 +1,31 @@
+
+\
+java:S1481")Remove this unused "info" local variable.(øàü•8û…¤ìË/H×XRMINORZ
+CODE_SMELL
+p	java:S1061"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ8û…¤ìË/HÖXRMAJORZ
+CODE_SMELL
+p	java:S106+"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ8çþšåË/HÛXRMAJORZ
+CODE_SMELL
+p	java:S1067"9Replace this use of System.out or System.err by a logger.(¾½¬®ýÿÿÿÿ8¬ÁúåË/HÕXRMAJORZ
+CODE_SMELL
+p	java:S106!"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ8±ÂšïË/HÚXRMAJORZ
+CODE_SMELL
+k	java:S1065"9Replace this use of System.out or System.err by a logger.(¦§‹8®âøåË/HÞXRMAJORZ
+CODE_SMELL
+e
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8Èˆ÷åË/HÒXRCRITICALZ
+CODE_SMELL
+k	java:S106/"9Replace this use of System.out or System.err by a logger.(¯‘Ùº8û…¤ìË/HÝXRMAJORZ
+CODE_SMELL
+p	java:S106#"9Replace this use of System.out or System.err by a logger.(Ÿ®ÄÐùÿÿÿÿ8ÆÝ…åË/HÑXRMAJORZ
+CODE_SMELL
+k	java:S106)"9Replace this use of System.out or System.err by a logger.(ë¶ô8Œ÷êíË/HÜXRMAJORZ
+CODE_SMELL
+p	java:S1069"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ8ÎíñíË/HØXRMAJORZ
+CODE_SMELL
+p	java:S106 "9Replace this use of System.out or System.err by a logger.(’¥îÛþÿÿÿÿ8û…¤ìË/HÔXRMAJORZ
+CODE_SMELL
+p	java:S106>"9Replace this use of System.out or System.err by a logger.(ˆ‹ç†ùÿÿÿÿ8óó™°Ë/HÙXRMAJORZ
+CODE_SMELL
+p	java:S106%"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ8û…¤ìË/HßXRMAJORZ
+CODE_SMELL

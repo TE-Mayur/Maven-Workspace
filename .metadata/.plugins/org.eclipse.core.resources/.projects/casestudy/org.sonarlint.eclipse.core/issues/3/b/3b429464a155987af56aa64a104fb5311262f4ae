@@ -1,0 +1,21 @@
+
+i	java:S106@"9Replace this use of System.out or System.err by a logger.(¿ÅêùÿÿÿÿH¶ORMAJORZ
+CODE_SMELL
+i	java:S106 "9Replace this use of System.out or System.err by a logger.(—İ÷ñøÿÿÿÿHÑRRMAJORZ
+CODE_SMELL
+d	java:S106'"9Replace this use of System.out or System.err by a logger.(ìÂêH¦ORMAJORZ
+CODE_SMELL
+^
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿH¨ORCRITICALZ
+CODE_SMELL
+d	java:S106&"9Replace this use of System.out or System.err by a logger.(š…ª˜HµORMAJORZ
+CODE_SMELL
+i	java:S106!"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿHÓRRMAJORZ
+CODE_SMELL
+i	java:S106("9Replace this use of System.out or System.err by a logger.(™¶’åøÿÿÿÿH·ORMAJORZ
+CODE_SMELL
+d	java:S106)"9Replace this use of System.out or System.err by a logger.(¿àéşH¹ORMAJORZ
+CODE_SMELL
+†
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(‘¡áçÿÿÿÿÿHªORCRITICALZ
+CODE_SMELL

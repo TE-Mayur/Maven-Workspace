@@ -1,0 +1,8 @@
+
+^
+java:S1168("+Return an empty collection instead of null.(¥¹ï8Ûş¢ÔÑ/HsRMAJORZ
+CODE_SMELL
+v
+java:S2259&"EA "NullPointerException" could be thrown; "manager" is nullable here.(èòôÊÿÿÿÿÿ8·›¡ÔÑ/HsRMAJORZBUG
+v
+java:S2259%"EA "NullPointerException" could be thrown; "factory" is nullable here.(áÿÉğÿÿÿÿÿ8·›¡ÔÑ/H”sRMAJORZBUG

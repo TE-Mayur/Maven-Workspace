@@ -1,0 +1,26 @@
+package org.te.quicksort;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class Occurence {
+
+	 int length=10;
+	    int target=100;
+	    int[] tab1= new int[length];
+	    Object[] tab2= new Object[length];
+	    Object[] tab2Sorted= new Object[length];
+
+	    for (int i = 0; i < tab2Sorted.length; i++) {
+	        for (int j = i; j < tab2Sorted.length; j++) {
+	            if(tab2Sorted[i]+tab2Sorted[j]==target){
+	                //do what you want on objects to get back indexes
+	            }
+
+	        }
+	        //As tab3 is sorted you dont have to read all the array
+	        if(tab2Sorted[i]>target/2){
+	            break;
+	        }
+	    }
+}

@@ -1,0 +1,12 @@
+package org.te.hibernatepractice;
+
+import javax.persistence.EntityManagerFactory;
+
+public class Insert {
+
+	public static void main(String[] args) {
+		
+		EntityManagerFactory factory = null;
+		
+	}
+}

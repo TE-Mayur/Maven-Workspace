@@ -1,0 +1,10 @@
+
+Š	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(Â¨•ù8ÝÈ“ÐÖ/H©yRMAJORZ
+CODE_SMELL
+k
+java:S1197"8Move the array designator from the variable to the type.(òÁá”8ÝÈ“ÐÖ/H¥yRMINORZ
+CODE_SMELL
+n	java:S125"<This block of commented-out lines of code should be removed.(ó×ÎÜ8ÝÈ“ÐÖ/H¦yRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ˆ†ˆØ8–­äÏÖ/H¤yRMAJORZ
+CODE_SMELL

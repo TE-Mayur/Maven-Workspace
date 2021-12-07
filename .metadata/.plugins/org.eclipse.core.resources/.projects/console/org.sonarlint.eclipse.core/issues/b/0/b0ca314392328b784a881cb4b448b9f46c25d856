@@ -1,0 +1,39 @@
+
+p	java:S1066"9Replace this use of System.out or System.err by a logger.(è½Á‰øÿÿÿÿ8§áçîË/H±XRMAJORZ
+CODE_SMELL
+]
+java:S1444"*Make this "public static page" field final(Í·„™8ÈıÒ¿Ê/H²XRMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(Å½Üšøÿÿÿÿ8Œ¹çéĞ/HºXRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8Œ¹çéĞ/H¹XRMAJORZ
+CODE_SMELL
+‚
+java:S1104"PMake info a static final constant or non-public and provide accessors if needed.(¤µĞu8ÈıÒ¿Ê/H®XRMINORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ˆøœæ8°Ë¹™Ë/H­XRMAJORZ
+CODE_SMELL
+p	java:S1068"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ı¬õêĞ/HœYRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(şÿŸŒşÿÿÿÿ8ÿñÜ›Ğ/H´XRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(üÎ®8ÉÅçéĞ/H½XRMAJORZ
+CODE_SMELL
+†
+java:S1104"NMake le a static final constant or non-public and provide accessors if needed.(¤ù”İøÿÿÿÿ8ÈıÒ¿Ê/HµXRMINORZ
+CODE_SMELL
+p	java:S1062"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ÉÅçéĞ/H¾XRMAJORZ
+CODE_SMELL
+ƒ
+java:S1104"PMake page a static final constant or non-public and provide accessors if needed.(Í·„™8ÈıÒ¿Ê/H¸XRMINORZ
+CODE_SMELL
+p	java:S1061"9Replace this use of System.out or System.err by a logger.(ı“Å˜şÿÿÿÿ8ÿ ïµÊ/H°XRMAJORZ
+CODE_SMELL
+k	java:S1067"9Replace this use of System.out or System.err by a logger.(ãÔÙÚ8ÿñÜ›Ğ/H¯XRMAJORZ
+CODE_SMELL
+\
+java:S1444"*Make this "public static info" field final(¤µĞu8ÈıÒ¿Ê/H³XRMINORZ
+CODE_SMELL
+`
+java:S1444"(Make this "public static le" field final(¤ù”İøÿÿÿÿ8ÈıÒ¿Ê/H¬XRMINORZ
+CODE_SMELL

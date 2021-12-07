@@ -1,0 +1,50 @@
+
+p	java:S1061"9Replace this use of System.out or System.err by a logger.(ŠÈ˜üÿÿÿÿÿ8ëíœ·Ë/HìXRMAJORZ
+CODE_SMELL
+Z
+java:S1481O"'Remove this unused "dt" local variable.(øÓËª8ëíœ·Ë/HîXRMINORZ
+CODE_SMELL
+e
+java:S2093("*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8ëíœ·Ë/HôXRCRITICALZ
+CODE_SMELL
+j	java:S106E"9Replace this use of System.out or System.err by a logger.(¥ 8ëíœ·Ë/HèXRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(éñ›òúÿÿÿÿ8ëíœ·Ë/HëXRMAJORZ
+CODE_SMELL
+p	java:S106>"9Replace this use of System.out or System.err by a logger.(øÜ…Öÿÿÿÿÿ8ëíœ·Ë/HâXRMAJORZ
+CODE_SMELL
+p	java:S1062"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ëíœ·Ë/HğXRMAJORZ
+CODE_SMELL
+k	java:S106I"9Replace this use of System.out or System.err by a logger.(…®ÂÊ8ëíœ·Ë/HñXRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ƒÊĞÒûÿÿÿÿ8ëíœ·Ë/HöXRMAJORZ
+CODE_SMELL
+p	java:S106^"9Replace this use of System.out or System.err by a logger.(Íü›¦ùÿÿÿÿ8À£üêĞ/H¤YRMAJORZ
+CODE_SMELL
+a
+java:S1121P".Extract the assignment out of this expression.(äˆ´ñ8ëíœ·Ë/HãXRMAJORZ
+CODE_SMELL
+p	java:S106T"9Replace this use of System.out or System.err by a logger.(›Ù¢¸ûÿÿÿÿ8ëíœ·Ë/HáXRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ÏÙÄìûÿÿÿÿ8ëíœ·Ë/HïXRMAJORZ
+CODE_SMELL
+k	java:S106]"9Replace this use of System.out or System.err by a logger.(Ş”³8·¥æêĞ/H…YRMAJORZ
+CODE_SMELL
+p	java:S1064"9Replace this use of System.out or System.err by a logger.(Ò—şĞúÿÿÿÿ8ëíœ·Ë/HàXRMAJORZ
+CODE_SMELL
+m
+java:S1141;"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8ëíœ·Ë/HäXRMAJORZ
+CODE_SMELL
+m
+java:S1141L"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8ëíœ·Ë/HòXRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ëíœ·Ë/HêXRMAJORZ
+CODE_SMELL
+p	java:S106W"9Replace this use of System.out or System.err by a logger.(©øıñÿÿÿÿÿ8Ø‘Ë·Ë/HæXRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(û¥¼ªùÿÿÿÿ8ëíœ·Ë/HçXRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ëíœ·Ë/HíXRMAJORZ
+CODE_SMELL
+p	java:S106M"9Replace this use of System.out or System.err by a logger.(…Ş‹¼øÿÿÿÿ8ëíœ·Ë/HéXRMAJORZ
+CODE_SMELL
